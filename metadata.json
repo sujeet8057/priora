@@ -1,0 +1,6 @@
+{
+  "name": "PRIORA",
+  "description": "Proactive AI productivity companion that helps you prioritize tasks, track deadlines, and receive proactive, AI-powered guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
